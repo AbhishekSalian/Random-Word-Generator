@@ -1,9 +1,13 @@
 # Random Word Generator
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![PyPI](https://img.shields.io/pypi/v/Random-Word-Generator)
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 ![Python3](https://img.shields.io/badge/python->=3-green.svg)
-![Awesome Badges](https://img.shields.io/badge/badges-awesome-orange.svg)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![install](https://img.shields.io/badge/pip%20install-Random--Word--Generator-brightgreen)](https://pypi.org/project/Random-Word-Generator/)
+![code quality](https://www.code-inspector.com/project/11503/status/svg)
+![Code Score](https://www.code-inspector.com/project/11503/score/svg)
 
 
 
