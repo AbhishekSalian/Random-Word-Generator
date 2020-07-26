@@ -29,14 +29,6 @@ pip install RandomWordGenerator
 It helps us to generate random words i.e random noise in text data which is helpful in many text augmentation based tasks, NER, etc.
 
 ## __Which methods are available currently in this library?__
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-d9cy{background-color:#00009b;border-color:#9b9b9b;color:#efefef;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -73,15 +65,6 @@ rw = RandomWord(max_word_size,
                 special_chars=r"@_!#$%^&*()<>?/\|}{~:",
                 include_special_chars=False)
 ```
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cbj7{background-color:#f8a102;border-color:#000000;color:#000000;text-align:center;vertical-align:top}
-.tg .tg-oj67{background-color:#f8a102;border-color:#000000;color:#000000;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 538px">
 <colgroup>
 <col style="width: 149px">
