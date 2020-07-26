@@ -6,8 +6,8 @@
 ![Python3](https://img.shields.io/badge/python->=3-green.svg)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![install](https://img.shields.io/badge/pip%20install-Random--Word--Generator-brightgreen)](https://pypi.org/project/Random-Word-Generator/)
-![code quality](https://www.code-inspector.com/project/11503/status/svg)
-![Code Score](https://www.code-inspector.com/project/11503/score/svg)
+[![code quality](https://www.code-inspector.com/project/11503/status/svg)](https://frontend.code-inspector.com/public/project/11503/Random-Word-Generator/dashboard)
+[![Code Score](https://www.code-inspector.com/project/11503/score/svg)](https://frontend.code-inspector.com/public/project/11503/Random-Word-Generator/dashboard)
 
 
 
