@@ -13,7 +13,7 @@
 
 ## __How to install this library?__
 ```
-pip3 install RandomWordGenerator
+pip3 install Random-Word-Generator
 
 OR
 
