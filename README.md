@@ -17,7 +17,7 @@ pip3 install Random-Word-Generator
 
 OR
 
-pip install RandomWordGenerator
+pip install Random-Word-Generator
 ```
 
 ## __Which other python packages are needed to be installed?__
