@@ -183,13 +183,13 @@ rw = RandomWord(max_word_size,
 
 
 ## Author
-I will be happy connect with you guys!!
+I will be happy to connect with you guys!!
 
 [Linkedin](https://www.linkedin.com/in/abhishek-c-salian/)
 
 [Twitter](https://www.twitter.com/@ACSalian)
 
 
-Any suggestions are most welcome.
+**Any suggestions are most welcome.**
 
 #
