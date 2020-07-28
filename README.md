@@ -63,7 +63,7 @@ It helps us to generate random words i.e random noise in text data which is help
 from RandomWordGenerator import RandomWord
 
 # Creating a random word object
-rw = RandomWord(max_word_size,
+rw = RandomWord(max_word_size=10,
                 constant_word_size=True,
                 include_digits=False,
                 special_chars=r"@_!#$%^&*()<>?/\|}{~:",
