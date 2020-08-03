@@ -181,10 +181,10 @@ rw = RandomWord(max_word_size=10,
 
 ## __Application__
 
-* In cases where we need to add  random noise in text
-* Name Entity Relation extraction based tasks
-* Text Data Augmentation based tasks
-* Can be used to generate random tokens for some particular application
+* In cases where we need to add  random noise in text.
+* Name Entity Relation extraction based tasks.
+* Text Data Augmentation based tasks.
+* Can be used to generate random tokens for some particular application.
 
 
 ## Author
