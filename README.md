@@ -8,7 +8,7 @@
 [![install](https://img.shields.io/badge/pip%20install-Random--Word--Generator-brightgreen)](https://pypi.org/project/Random-Word-Generator/)
 [![code quality](https://www.code-inspector.com/project/11503/status/svg)](https://frontend.code-inspector.com/public/project/11503/Random-Word-Generator/dashboard)
 [![Code Score](https://www.code-inspector.com/project/11503/score/svg)](https://frontend.code-inspector.com/public/project/11503/Random-Word-Generator/dashboard)
-
+[![DOI](https://zenodo.org/badge/282638350.svg)](https://zenodo.org/badge/latestdoi/282638350)
 
 
 <p align="center">
@@ -194,6 +194,19 @@ I will be happy to connect with you guys!!
 
 [Twitter](https://www.twitter.com/@ACSalian)
 
+## Citation
+```
+@software{abhishek_c_salian_2020_4384164,
+  author       = {Abhishek C. Salian},
+  title        = {AbhishekSalian/Random-Word-Generator v1.0.0},
+  month        = dec,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.4384164},
+  url          = {https://doi.org/10.5281/zenodo.4384164}
+}
+```
 
 **Any suggestions are most welcome.**
 
