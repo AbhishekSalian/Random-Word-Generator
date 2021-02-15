@@ -171,7 +171,7 @@ rw = RandomWord(max_word_size=10,
     rw = RandomWord(max_word_size=5,
                     constant_word_size=False)
 
-    print(rw.getList(num_of_random_words=3)
+    print(rw.getList(num_of_random_words=3))
     ```
     ```
     Output will be some random word like
