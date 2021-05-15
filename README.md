@@ -9,7 +9,8 @@
 [![code quality](https://www.code-inspector.com/project/11503/status/svg)](https://frontend.code-inspector.com/public/project/11503/Random-Word-Generator/dashboard)
 [![Code Score](https://www.code-inspector.com/project/11503/score/svg)](https://frontend.code-inspector.com/public/project/11503/Random-Word-Generator/dashboard)
 [![DOI](https://zenodo.org/badge/282638350.svg)](https://zenodo.org/badge/latestdoi/282638350)
-
+[![Downloads](https://pepy.tech/badge/random-word-generator)](https://pepy.tech/project/random-word-generator)
+[![Downloads](https://pepy.tech/badge/random-word-generator/month)](https://pepy.tech/project/random-word-generator)
 
 <p align="center">
 <img src="./image/rwg.png"></a>
